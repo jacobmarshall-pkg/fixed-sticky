@@ -190,4 +190,4 @@
 		$( win.document.documentElement ).addClass( S.classes.withoutFixedFixed );
 	}
 
-})( window, jQuery );
+})( window, require('jquery') );
